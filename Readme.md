@@ -8,7 +8,7 @@ From [Stanford CS193p (2023)](https://cs193p.sites.stanford.edu/2023) course.
 ## Course Progress
 - [x] Class 1
 - [ ] Class 2
-- [ ] Class 3
+- [ ] Class 3
 - [ ] Class 4
 - [ ] Class 5
 - [ ] Class 6
